@@ -1,0 +1,15 @@
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\bin\Debug\net6.0\BasicAutenticationUp.exe
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\bin\Debug\net6.0\BasicAutenticationUp.deps.json
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\bin\Debug\net6.0\BasicAutenticationUp.runtimeconfig.json
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\bin\Debug\net6.0\BasicAutenticationUp.dll
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\bin\Debug\net6.0\BasicAutenticationUp.pdb
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\BasicAutenticationUp.csproj.AssemblyReference.cache
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\BasicAutenticationUp.GeneratedMSBuildEditorConfig.editorconfig
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\BasicAutenticationUp.AssemblyInfoInputs.cache
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\BasicAutenticationUp.AssemblyInfo.cs
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\BasicAutenticationUp.csproj.CoreCompileInputs.cache
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\BasicAutenticationUp.dll
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\refint\BasicAutenticationUp.dll
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\BasicAutenticationUp.pdb
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\BasicAutenticationUp.genruntimeconfig.cache
+D:\METRODATA\C#\BasicAutenticationUp\BasicAutenticationUp\obj\Debug\net6.0\ref\BasicAutenticationUp.dll
